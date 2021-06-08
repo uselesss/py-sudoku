@@ -3,7 +3,7 @@ Generate and solve sudoku with Python
 
 ---
 #Usage examples
-``` bash
+``` py
 $ python -i sudoku.py
 >>> grid = read_sudoku('puzzle1.txt')
 >>> display(grid)
